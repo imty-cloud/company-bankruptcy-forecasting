@@ -1,0 +1,17 @@
+﻿Mô hình,TS,Hiệu chỉnh,P1 (chính): thấp hơn / không khác / cao hơn
+LR,Không,Platt,0 / 4 / 1
+LR,Không,Isotonic,1 / 4 / 0
+LR,Có,Platt,5 / 0 / 0
+LR,Có,Isotonic,5 / 0 / 0
+LR+QT,Không,Platt,0 / 5 / 0
+LR+QT,Không,Isotonic,1 / 3 / 1
+LR+QT,Có,Platt,5 / 0 / 0
+LR+QT,Có,Isotonic,5 / 0 / 0
+XGB,Không,Platt,0 / 5 / 0
+XGB,Không,Isotonic,0 / 4 / 1
+XGB,Có,Platt,1 / 3 / 1
+XGB,Có,Isotonic,0 / 4 / 1
+XGB-NaN,Không,Platt,0 / 5 / 0
+XGB-NaN,Không,Isotonic,0 / 5 / 0
+XGB-NaN,Có,Platt,2 / 2 / 1
+XGB-NaN,Có,Isotonic,1 / 3 / 1
